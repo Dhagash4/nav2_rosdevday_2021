@@ -2,7 +2,7 @@ repositories:
   neobotix/neo_simulation2:
     type: git
     url: https://github.com/neobotix/neo_simulation2.git
-    version: foxy
+    version: humble
   aws-robotics/aws-robomaker-small-warehouse-world:
     type: git
     url: https://github.com/aws-robotics/aws-robomaker-small-warehouse-world.git
@@ -10,4 +10,4 @@ repositories:
   ros-planning/navigation2:
     type: git
     url: https://github.com/ros-planning/navigation2.git
-    version: galactic
+    version: humble
